@@ -9,3 +9,4 @@ Team members :
 
 --> Shikhar Jaiswal
 
+#Deployment of the app : into websites like Heroku hasnt been done yet.
