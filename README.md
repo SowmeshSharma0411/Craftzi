@@ -11,7 +11,7 @@ Team members :
 
 #Deployment of the app : into websites like Heroku hasnt been done yet.
 
-Auth Screens : 
+Auth Screens : send the auth details to the mongodb users db, using the api written todo so; CryptoJS is used to store the passwords in an encrypted format in the database.
 <p>
 <img src="https://user-images.githubusercontent.com/95576716/210198424-83fc1a28-3534-4906-a407-ef97c0c6afd7.png" width="300">
 <img src="https://user-images.githubusercontent.com/95576716/210198433-9fa9a731-31d5-4015-b2b4-3a59ba87e017.png" width="300">
