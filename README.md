@@ -3,6 +3,8 @@ A MERN Stack E-Commerce marketplace for artists and customers to purchase and se
 
 Team members : 
 
+-->Sowmesh Sharma
+
 --> Shashank Sundar
 
 --> Shikhar Jaiswal
