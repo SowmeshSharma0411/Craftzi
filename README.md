@@ -37,3 +37,5 @@ https://user-images.githubusercontent.com/95576716/210198452-bd3d7be1-70b0-4ebf-
 
 #ending note : the integration of api and front end was the difficult part and we struggled with it, due to time constraints, when the ecommerce site for clothing and sneakers was changed into a site to sell art, we couldnt adapt. 
 But the project outcome seemed promising and showed A lot of room for change and upscaling as well.
+
+Reference : https://youtu.be/y66RgYMAgSo -- Lama Dev for frontend inspiration and backend schema design
