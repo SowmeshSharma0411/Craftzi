@@ -5,7 +5,7 @@ Team members :
 
 -->Sowmesh Sharma
 
---> Shashank Sundar
+--> Shashank Sundar : Credits to him for the amazing frontend.
 
 --> Shikhar Jaiswal
 
